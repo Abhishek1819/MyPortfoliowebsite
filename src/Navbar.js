@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar navbar-expand-md fixed-top bg-white">
       <div className="container my-2">
         <Link to="/" className="navbar-brand text-dark font-weight-bold">
-          Manikumar Perla
+          Abhishek Giri
         </Link>
 
         <form className="d-flex" role="search">
